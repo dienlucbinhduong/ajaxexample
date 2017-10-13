@@ -1,0 +1,38 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_DVLayout.cshtml";
+}
+@section scripts {
+<script src="~/Scripts/plugins/mustache.min.js"></script>
+<script src="~/Scripts/plugins/jquery.twbsPagination.min.js"></script>
+<script src="~/Scripts/controllers/homeController.js"></script>
+}
+
+<div class="row">
+    <table class="table" style="color:antiquewhite">
+        <thead>
+            <tr>
+                <td>ID</td>
+                <td>Name</td>
+                <td>Salary</td>
+                <td>Status</td>
+            </tr>
+        </thead>
+        <tbody id="tblData"></tbody>
+
+    </table>
+</div>
+<div id="pagination" class="pagination">
+
+</div>
+
+<script id="data-template" type="x-tmpl-mustache">
+    <tr>
+        <td>{{ID}}</td>
+        <td>{{Name}}</td>
+        <td><input type="number" value="{{Salary}}" data-id="{{ID}}" class="txtSalary" style="color:black"/></td>
+        <td>{{{Status}}}</td>
+    </tr>
+</script>
+

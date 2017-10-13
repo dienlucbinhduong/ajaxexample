@@ -1,0 +1,40 @@
+D:\WebDangVien\DVModels\bin\Debug\DVModels.dll.config
+D:\WebDangVien\DVModels\bin\Debug\DVModels.dll
+D:\WebDangVien\DVModels\bin\Debug\DVModels.pdb
+D:\WebDangVien\DVModels\bin\Debug\EntityFramework.dll
+D:\WebDangVien\DVModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\WebDangVien\DVModels\bin\Debug\EntityFramework.xml
+D:\WebDangVien\DVModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\WebDangVien\DVModels\obj\Debug\DVModels.csprojResolveAssemblyReference.cache
+D:\WebDangVien\DVModels\obj\Debug\DVModels.dll
+D:\WebDangVien\DVModels\obj\Debug\DVModels.pdb
+D:\LAPTRINH\WebDangVien\DVModels\bin\Debug\DVModels.dll.config
+D:\LAPTRINH\WebDangVien\DVModels\bin\Debug\DVModels.dll
+D:\LAPTRINH\WebDangVien\DVModels\bin\Debug\DVModels.pdb
+D:\LAPTRINH\WebDangVien\DVModels\bin\Debug\EntityFramework.dll
+D:\LAPTRINH\WebDangVien\DVModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\LAPTRINH\WebDangVien\DVModels\bin\Debug\EntityFramework.xml
+D:\LAPTRINH\WebDangVien\DVModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\LAPTRINH\WebDangVien\DVModels\obj\Debug\DVModels.csprojResolveAssemblyReference.cache
+D:\LAPTRINH\WebDangVien\DVModels\obj\Debug\DVModels.dll
+D:\LAPTRINH\WebDangVien\DVModels\obj\Debug\DVModels.pdb
+D:\MY WORKS\MVC\WebDangVien\DVModels\bin\Debug\DVModels.dll.config
+D:\MY WORKS\MVC\WebDangVien\DVModels\bin\Debug\DVModels.dll
+D:\MY WORKS\MVC\WebDangVien\DVModels\bin\Debug\DVModels.pdb
+D:\MY WORKS\MVC\WebDangVien\DVModels\bin\Debug\EntityFramework.dll
+D:\MY WORKS\MVC\WebDangVien\DVModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\MY WORKS\MVC\WebDangVien\DVModels\bin\Debug\EntityFramework.xml
+D:\MY WORKS\MVC\WebDangVien\DVModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\MY WORKS\MVC\WebDangVien\DVModels\obj\Debug\DVModels.dll
+D:\MY WORKS\MVC\WebDangVien\DVModels\obj\Debug\DVModels.pdb
+D:\MY WORKS\MVC\WebDangVien\DVModels\obj\Debug\DVModels.csprojResolveAssemblyReference.cache
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\DVModels\bin\Debug\DVModels.dll.config
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\DVModels\bin\Debug\DVModels.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\DVModels\bin\Debug\DVModels.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\DVModels\bin\Debug\EntityFramework.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\DVModels\bin\Debug\EntityFramework.SqlServer.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\DVModels\bin\Debug\EntityFramework.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\DVModels\bin\Debug\EntityFramework.SqlServer.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\DVModels\obj\Debug\DVModels.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\DVModels\obj\Debug\DVModels.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\DVModels\obj\Debug\DVModels.csprojResolveAssemblyReference.cache

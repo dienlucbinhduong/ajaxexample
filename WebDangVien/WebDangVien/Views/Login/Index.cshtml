@@ -1,0 +1,71 @@
+﻿
+@{
+    Layout = null;
+}
+@model WebDangVien.Models.LoginModel
+<!DOCTYPE html>
+
+<html>
+
+<!-- Head -->
+<head>
+
+    <title>Quản lý hồ sơ Đảng viên</title>
+
+    <!-- Meta-Tags -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+    <meta name="keywords" content="Library Member Login Form Widget Responsive, Login Form Web Template, Flat Pricing Tables, Flat Drop-Downs, Sign-Up Web Templates, Flat Web Templates, Login Sign-up Responsive Web Template, Smartphone Compatible Web Template, Free Web Designs for Nokia, Samsung, LG, Sony Ericsson, Motorola Web Design" />
+    <script type="application/x-javascript"> addEventListener("load", function() { setTimeout(hideURLbar, 0); }, false); function hideURLbar(){ window.scrollTo(0,1); } </script>
+    <!-- //Meta-Tags -->
+    <!-- Fonts -->
+    <link href="//fonts.googleapis.com/css?family=Roboto:100,300,400,500,700,900" rel="stylesheet">
+    <!-- //Fonts -->
+    <link href="@Url.Content("~/Assets/mycss/cssDangnhap.css")" rel="stylesheet" />
+
+</head>
+<!-- //Head -->
+<!-- Body -->
+<body>   
+        <div class="container w3layouts agileits">
+            @using (Html.BeginForm())
+            {
+                @Html.AntiForgeryToken()                
+                <fieldset>
+                    <div class="login w3layouts agileits">
+                        <h2>Đăng nhập</h2>
+                        <div>
+                            @Html.TextBoxFor(model => model.UserName, new { @class = "", @placeholder = "Tên người dùng", @autofocus = "autofocus" })
+                            @Html.TextBoxFor(model => model.Password, new { @class = "", @placeholder = "Mật khẩu", @type = "password" })
+                           
+                        </div>
+                        <ul class="tick w3layouts agileits">
+                            <li>
+                                <input type="checkbox" id="brand1" value="">
+                                <label id="lblThongbao" style="color: red">@Html.ValidationSummary(true, null)</label>
+                            </li>
+                        </ul>
+                        <div class="send-button w3layouts agileits">
+                            <button type="submit" id="btnLogin">Đăng nhập</button>
+                        </div>
+                        <p style="color: #8EDB15">Tài liệu hướng dẫn: <a href="../images/HDSD.pdf" target="_blank">Hướng dẫn sử dụng chương trình </a></p>
+                        <div class="clear"></div>
+                    </div>
+                </fieldset>                
+            }
+           
+
+
+
+            <div class="clear"></div>
+
+        </div>
+
+        <div class="footer w3layouts agileits">
+            <p>2017 &copy Quản lý hồ sơ Đảng viên | Thiết kế bởi phòng  <a href="http://pcbinhduong.evnspc.vn/" target="_blank">  CNTT - PCBD </a></p>
+        </div>
+   
+</body>
+<!-- //Body -->
+
+</html>

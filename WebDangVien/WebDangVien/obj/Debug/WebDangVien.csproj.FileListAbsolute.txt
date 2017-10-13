@@ -1,0 +1,216 @@
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\WebDangVien.dll.config
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\WebDangVien.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\WebDangVien.pdb
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\Antlr3.Runtime.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\DVModels.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\EntityFramework.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\Microsoft.Web.Infrastructure.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\Newtonsoft.Json.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\PagedList.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\PagedList.Mvc.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.Helpers.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.Mvc.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.Optimization.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.Razor.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.WebPages.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\WebGrease.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\DVModels.pdb
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\EntityFramework.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\PagedList.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\PagedList.Mvc.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.Helpers.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.Mvc.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.Optimization.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.Razor.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.WebPages.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\Antlr3.Runtime.pdb
+D:\LAPTRINH\WebDangVien\WebDangVien\bin\Newtonsoft.Json.xml
+D:\LAPTRINH\WebDangVien\WebDangVien\obj\Debug\WebDangVien.csprojResolveAssemblyReference.cache
+D:\LAPTRINH\WebDangVien\WebDangVien\obj\Debug\WebDangVien.dll
+D:\LAPTRINH\WebDangVien\WebDangVien\obj\Debug\WebDangVien.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\WebDangVien.dll.config
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\WebDangVien.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\WebDangVien.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\Antlr3.Runtime.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\DVModels.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\EntityFramework.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\Newtonsoft.Json.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\PagedList.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\PagedList.Mvc.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Helpers.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Mvc.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Optimization.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Razor.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\WebGrease.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\DVModels.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\EntityFramework.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\PagedList.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\PagedList.Mvc.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Helpers.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Mvc.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Optimization.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Razor.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\Antlr3.Runtime.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\bin\Newtonsoft.Json.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\obj\Debug\WebDangVien.csprojResolveAssemblyReference.cache
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\obj\Debug\WebDangVien.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\DANG VIEN\WebDangVien\WebDangVien\obj\Debug\WebDangVien.pdb
+D:\WebDangVien\WebDangVien\bin\WebDangVien.dll.config
+D:\WebDangVien\WebDangVien\bin\WebDangVien.dll
+D:\WebDangVien\WebDangVien\bin\WebDangVien.pdb
+D:\WebDangVien\WebDangVien\bin\Antlr3.Runtime.dll
+D:\WebDangVien\WebDangVien\bin\DVModels.dll
+D:\WebDangVien\WebDangVien\bin\EntityFramework.dll
+D:\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.dll
+D:\WebDangVien\WebDangVien\bin\Microsoft.Web.Infrastructure.dll
+D:\WebDangVien\WebDangVien\bin\Newtonsoft.Json.dll
+D:\WebDangVien\WebDangVien\bin\PagedList.dll
+D:\WebDangVien\WebDangVien\bin\PagedList.Mvc.dll
+D:\WebDangVien\WebDangVien\bin\System.Web.Helpers.dll
+D:\WebDangVien\WebDangVien\bin\System.Web.Mvc.dll
+D:\WebDangVien\WebDangVien\bin\System.Web.Optimization.dll
+D:\WebDangVien\WebDangVien\bin\System.Web.Razor.dll
+D:\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.dll
+D:\WebDangVien\WebDangVien\bin\System.Web.WebPages.dll
+D:\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.dll
+D:\WebDangVien\WebDangVien\bin\WebGrease.dll
+D:\WebDangVien\WebDangVien\bin\DVModels.pdb
+D:\WebDangVien\WebDangVien\bin\EntityFramework.xml
+D:\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.xml
+D:\WebDangVien\WebDangVien\bin\PagedList.xml
+D:\WebDangVien\WebDangVien\bin\PagedList.Mvc.xml
+D:\WebDangVien\WebDangVien\bin\System.Web.Helpers.xml
+D:\WebDangVien\WebDangVien\bin\System.Web.Mvc.xml
+D:\WebDangVien\WebDangVien\bin\System.Web.Optimization.xml
+D:\WebDangVien\WebDangVien\bin\System.Web.Razor.xml
+D:\WebDangVien\WebDangVien\bin\System.Web.WebPages.xml
+D:\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.xml
+D:\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.xml
+D:\WebDangVien\WebDangVien\bin\Antlr3.Runtime.pdb
+D:\WebDangVien\WebDangVien\bin\Newtonsoft.Json.xml
+D:\WebDangVien\WebDangVien\obj\Debug\WebDangVien.csprojResolveAssemblyReference.cache
+D:\WebDangVien\WebDangVien\obj\Debug\WebDangVien.dll
+D:\WebDangVien\WebDangVien\obj\Debug\WebDangVien.pdb
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\WebDangVien.dll.config
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\WebDangVien.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\WebDangVien.pdb
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\Antlr3.Runtime.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\DVModels.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\EntityFramework.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\Microsoft.Web.Infrastructure.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\Newtonsoft.Json.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\PagedList.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\PagedList.Mvc.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.Helpers.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.Mvc.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.Optimization.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.Razor.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\WebGrease.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\DVModels.pdb
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\EntityFramework.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\PagedList.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\PagedList.Mvc.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.Helpers.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.Mvc.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.Optimization.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.Razor.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\Antlr3.Runtime.pdb
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\bin\Newtonsoft.Json.xml
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\obj\Debug\WebDangVien.csprojResolveAssemblyReference.cache
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\obj\Debug\WebDangVien.dll
+D:\MY WORKS\MVC\WebDangVien\WebDangVien\obj\Debug\WebDangVien.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\WebDangVien.dll.config
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\WebDangVien.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\WebDangVien.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\Antlr3.Runtime.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\DVModels.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\EntityFramework.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\Newtonsoft.Json.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\PagedList.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\PagedList.Mvc.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.Helpers.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.Mvc.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.Optimization.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.Razor.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\WebGrease.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\DVModels.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\EntityFramework.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\PagedList.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\PagedList.Mvc.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.Helpers.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.Mvc.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.Optimization.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.Razor.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\Antlr3.Runtime.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\bin\Newtonsoft.Json.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\obj\Debug\WebDangVien.csprojResolveAssemblyReference.cache
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\obj\Debug\WebDangVien.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\MVC\WebDangVien\WebDangVien\obj\Debug\WebDangVien.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\WebDangVien.dll.config
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\WebDangVien.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\WebDangVien.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\Antlr3.Runtime.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\DVModels.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\EntityFramework.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\Microsoft.Web.Infrastructure.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\Newtonsoft.Json.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\PagedList.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\PagedList.Mvc.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Helpers.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Mvc.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Optimization.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Razor.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\WebGrease.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\DVModels.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\EntityFramework.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\EntityFramework.SqlServer.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\PagedList.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\PagedList.Mvc.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Helpers.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Mvc.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Optimization.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.Razor.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.Deployment.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\System.Web.WebPages.Razor.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\Antlr3.Runtime.pdb
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\bin\Newtonsoft.Json.xml
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\obj\Debug\WebDangVien.csprojResolveAssemblyReference.cache
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\obj\Debug\WebDangVien.dll
+D:\OneDrive\DUNG\PC BINH DUONG\MY PROJECT\ASPNET\MVC\DANG VIEN\WebDangVien\WebDangVien\obj\Debug\WebDangVien.pdb

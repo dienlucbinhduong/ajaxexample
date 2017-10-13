@@ -1,0 +1,146 @@
+﻿@using PagedList;
+@using PagedList.Mvc;
+@using WebDangVien.Controllers;
+@using DVModels.EF;
+@model IPagedList<DVModels.DATAVIEW.DangVien>
+@{
+    List<Division> lst=new List<Division>();
+    lst = ViewBag.lstChiBo;
+    Layout = "~/Views/Shared/_DVLayout.cshtml";
+    HomeController v = new HomeController();
+}
+
+<script>
+    function getIDDV() {
+        var x = document.getElementById("iddangvien").text;
+        alert(x);
+        alert($(this).attr("#data-iddv"));
+    }
+</script>
+
+<div> 
+     
+        <div class="row">
+                   
+                    <div class="box-header" style="padding-top:20px">
+                        @*<h3 class="box-title" style="color:white; padding-bottom:20px">Danh sách Đảng viên</h3>*@
+                        <div class="btn-group" style="padding-bottom:10px">
+                            <button type="button" class="btn btn-info" data-toggle="dropdown">DANH SÁCH CHI BỘ</button>
+                            <button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown">
+                                <span class="caret"></span>
+                                <span class="sr-only">Toggle Dropdown</span>
+                            </button>
+                            <ul class="dropdown-menu nav nav-stacked" role="menu">
+                                @foreach (var item in lst)
+                                {
+                                    @*<li class="divider"></li>*@
+                                    <li><a href="@Url.Action("Index", new { @searchString = @ViewBag.SearchString, divisionid = item.DivisionID })">Chi bộ @item.DivisionName &nbsp &nbsp<span class="pull-right-container badge bg-blue right">@item.DivisionID ĐV</span></a></li>
+                                }
+                            </ul>
+                        </div>
+                        <div class="box-tools">
+                            @using (Html.BeginForm("Index", "Home", FormMethod.Get))
+                            {
+                                <div class="input-group input-group-sm" style="width: 300px;padding-top:15px">
+                                    <input type="text" name="searchString" value="@ViewBag.SearchString" class="form-control pull-right" placeholder="Tìm kiếm">
+                                    <div class="input-group-btn">
+                                        <button type="submit" class="btn btn-default"><i class="fa fa-search"></i></button>
+                                    </div>
+                                </div>
+                            }
+                        </div>
+                    </div>
+
+                @foreach (var item in Model)
+                    {
+                <div class="col-md-4">
+                    <!-- Widget: user widget style 1 -->
+                    <div class="box box-widget widget-user-2">
+                        <!-- Add the bg color to the header using any of the bg-* classes -->
+                        <div class="widget-user-header bg-gray-light">
+                            <div class="widget-user-image">
+                                <img class="img-rounded" src="data:image/png;base64,@v.CreateBase64Image(@item.hinh)" @ViewBag.strPicture alt="">
+                            </div>
+                            <!-- /.widget-user-image -->
+                            <h3 class="widget-user-username"><a id="iddangvien" onclick="getIDDV()" href="" data-toggle="modal" data-iddv="@item.mahoso" data-target="#myModal">@item.hoten</a></h3>
+                            <h5 class="widget-user-desc">@item.chucvuchuyenmon</h5>
+                        </div>
+                        <div class="box-footer no-padding">
+                            <ul class="nav nav-stacked">
+                                <li>.</li>
+                                <li><a href="#">Đơn vị công tác: @item.tendonvi</a></li> 
+                                <li><a href="#">Ngày tháng năm sinh <span class="pull-right badge bg-green">@item.ngaysinh.Value.ToShortDateString()</span></a></li>                                                               
+                                <li><a href="#">Ngày vào Đảng <span class="pull-right badge bg-red">@item.ngaychinhthuc.Value.ToShortDateString()</span></a></li>
+                            </ul>
+                        </div>
+                    </div>
+                    <!-- /.widget-user -->
+                    </div>
+                    }
+
+          
+           
+                <!-- /.box -->
+         </div>
+            @*<div class="box-footer clearfix" style="">*@
+           <div>
+                <ul class="pagination pagination-sm no-margin pull-right" style="padding-top:0px">
+                    @Html.PagedListPager(Model, sotrang => Url.Action("Index", new { page = sotrang, @searchString = @ViewBag.SearchString }))                    
+                </ul>           
+        </div>   
+    
+</div>
+
+@* Modal*@
+@* Bootrap Modal *@
+<div class="container">
+    @*<button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Large Modal</button>*@
+
+    <!-- Modal -->
+    <div class="modal fade" id="myModal" role="dialog">
+        <div class="modal-dialog modal-lg">
+            <div class="modal-content">
+                <div class="modal-header">
+                    <button type="button" class="close" data-dismiss="modal">&times;</button>
+                    <h4 class="modal-title">Thông tin Đảng viên</h4>
+                </div>
+                <div class="modal-body">
+
+                    @*<div class="box box-widget widget-user-2">
+                            <!-- Add the bg color to the header using any of the bg-* classes -->
+                            <div class="widget-user-header bg-gray-light">
+                                <div class="widget-user-image">
+                                    <img class="img-rounded" src="data:image/png;base64,@v.CreateBase64Image(@item.hinh)" @ViewBag.strPicture alt="">
+                                </div>
+                                <!-- /.widget-user-image -->
+                                <h3 class="widget-user-username"><a href="" data-toggle="modal" data-target="#myModal">@item.hoten</a></h3>
+                                <h5 class="widget-user-desc">@item.chucvuchuyenmon</h5>
+                            </div>
+                            <div class="box-footer no-padding">
+                                <ul class="nav nav-stacked">
+                                    <li>.</li>
+                                    <li><a href="#">Đơn vị công tác: @item.tendonvi</a></li>
+                                    <li><a href="#">Ngày tháng năm sinh <span class="pull-right badge bg-green">@item.ngaysinh.Value.ToShortDateString()</span></a></li>
+                                    <li><a href="#">Ngày vào Đảng <span class="pull-right badge bg-red">@item.ngaychinhthuc.Value.ToShortDateString()</span></a></li>
+                                </ul>
+                            </div>
+                        </div>*@
+
+                </div>
+                <div class="modal-footer">
+                    <button type="button" class="btn btn-default" data-dismiss="modal">Đóng</button>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+
+
+
+
+
+
+
+
+
